@@ -6,6 +6,6 @@
  */
 function Test()
 {
-  $("#h1").text("This is a Test Updated");
+  //$("#h1").text("This is a Test Updated");
 }
 export default Test;
