@@ -6,6 +6,11 @@
  */
 function Test()
 {
-  $("#h1").text("This is a Test Updated");
+  setTitle();
+}
+
+function setTitle()
+{
+  $("h1").text("Test Title New");
 }
 export default Test;
